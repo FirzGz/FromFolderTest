@@ -1,3 +1,5 @@
 This is a new file first.
 
 ADD To THIS
+
+Comparing the stage area with repository
